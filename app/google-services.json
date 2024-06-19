@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169362695523",
+    "project_id": "push-notification-9c59e",
+    "storage_bucket": "push-notification-9c59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169362695523:android:d9279e59cfeeb95f4b5f56",
+        "android_client_info": {
+          "package_name": "uz.futuresoft.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMB_nFl20cLm5i9edyJFM-n8URJth7L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
